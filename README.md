@@ -5,4 +5,4 @@ nmtool.cpp ask you to provide the number you tried to guess and the hint code yo
 
 nmsolver.cpp does the same thing of nmtool.cpp but in addition, it also tells you which number is the best to be the next guess.
 
-The file nmsolver_test.cpp draws a random number and use the same strategy of nmsolver.cpp to guess it autonomously. This file has been used to show that the average guesses that the program uses to find the correct number is: 5.47. My personal average is 5.87 (:
+The file nmsolver_test.cpp draws a random number and uses the same strategy of nmsolver.cpp to guess it autonomously. This file has been used to show that the average guesses that the program uses to find the correct number is: 5.47. My personal average is 5.87 (:
